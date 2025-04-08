@@ -9,3 +9,4 @@ Developed a shopping mall project with a backend design using SQL
 to create and manage the database, and implemented Java JDBC
 with Spring Boot to handle RESTful operations and ensure seamless
 data interaction.
+
