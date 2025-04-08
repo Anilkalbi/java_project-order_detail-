@@ -1,6 +1,6 @@
 # java_project-order_detail- 
 Developed skills in Databases using MySQL, GIT, Core Java 8, Spring
-5.0, Spring Boot and Soft-Skills.
+5.0, Spring Boot.
 
 Created REST API for performing CRUD operation by using Spring
 Boot application and MYSQL database.
